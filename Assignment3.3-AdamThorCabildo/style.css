@@ -1,0 +1,30 @@
+body{
+    background-color: aqua;
+}
+p{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    font-family: sans-serif;
+    font-size: 40pX;
+    font-style: normal;
+}
+a:link{
+    color: blue;
+    text-decoration: none;
+}
+a:visited{
+    color: fuchsia;
+    text-decoration: none;
+}
+a:hover{
+    color: firebrick;
+    text-decoration: none;
+}
+div{
+    margin: 40px;
+    border: 8px solid red;
+    padding: 20px; 
+    background: yellow;
+}
