@@ -1,0 +1,17 @@
+button.btn-future{
+    color:rgb(1, 22, 57);
+    background-color:rgb(225, 179, 0);
+    margin:20px;
+    transition-property: background-color, margin;
+    transition-duration: 1s;
+    transition-delay: 1s;
+}
+
+button.bsn-future:hover{
+    background-color: orange;
+    margin:40px;
+}
+
+button.bsn-present{
+    
+}
