@@ -1,0 +1,79 @@
+body{
+    background-color: aquamarine;
+    color: hotpink;
+    font-family: monospace;
+}
+h1{
+    font-family: sans-serif;
+    font-size: 40pX;
+    font-style: normal;
+}
+a:link{
+    color: blue;
+    text-decoration: none;
+}
+a:visited{
+    color: fuchsia;
+    text-decoration: none;
+}
+a:hover{
+    color: firebrick;
+    text-decoration: none;
+}
+div{
+    margin: 40px;
+    border: 2px solid red;
+    padding: 20px; 
+}
+img {
+  height: 200px;
+  display: inline-block;
+}
+
+#img-0 {
+
+}
+
+#img-1 {
+  
+}
+
+#img-2 {
+  
+}
+
+#img-3 {
+  
+}
+
+#img-4 {
+  
+}
+
+#img-5 {
+  
+}
+
+#img-6 {
+  
+}
+
+#img-7 {
+  
+}
+
+#img-8 {
+  
+}
+
+#img-9 {
+  
+}
+
+#img-10 {
+  
+}
+
+#img-11 {
+  
+}
