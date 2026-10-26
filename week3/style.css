@@ -1,0 +1,17 @@
+p {
+    color: green;
+    font-size: 20px;
+    background: orange;
+}
+
+h1 {
+    color: white;
+    font-size: 40px;
+    background: purple;
+}
+
+#article {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 36px;
+    color: purple;
+}
