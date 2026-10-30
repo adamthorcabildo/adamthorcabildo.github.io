@@ -13,5 +13,28 @@ button.bsn-future:hover{
 }
 
 button.bsn-present{
-    
+    background-color: aliceblue;
+    color: green;
+    letter-spacing: 0px;
+    font-size: 
+
+}
+
+button.bsn-present:hover span{
+    display: inline;
+}
+
+button.btn-past{
+    margin: 20px;
+    width: 200px;
+    height: 75px;
+    transition-property: width, height, padding;
+    transition-duration: 10s;
+    transition-timing-function: ease-in;
+}
+
+button.btn-past:hover{
+    width: 600px;
+    height: 225px;
+    padding: 50px;
 }
